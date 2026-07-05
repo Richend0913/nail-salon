@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:I[39756,["/nail-salon/_next/static/chunks/3kmjv1s8nbug2.js","/nail-salon/_next/static/chunks/3mxb9faihcip-.js","/nail-salon/_next/static/chunks/158myu8e_yme3.js"],"default"]
-3:I[37457,["/nail-salon/_next/static/chunks/3kmjv1s8nbug2.js","/nail-salon/_next/static/chunks/3mxb9faihcip-.js","/nail-salon/_next/static/chunks/158myu8e_yme3.js"],"default"]
+2:I[39756,["/nail-salon/_next/static/chunks/2meynvn572rmi.js","/nail-salon/_next/static/chunks/3mxb9faihcip-.js","/nail-salon/_next/static/chunks/158myu8e_yme3.js"],"default"]
+3:I[37457,["/nail-salon/_next/static/chunks/2meynvn572rmi.js","/nail-salon/_next/static/chunks/3mxb9faihcip-.js","/nail-salon/_next/static/chunks/158myu8e_yme3.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"GLG8Yc7XRHONWMjSoNSEg"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"CuE4jw6AXW80OzVObwjWp"}
